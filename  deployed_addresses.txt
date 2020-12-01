@@ -1,0 +1,1 @@
+Testnet used is Kovan. Contract address is: 0xC15Bb7d112BfD9fCc955f26C6f057b3d11d235DF
